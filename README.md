@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sivakotari
-- 🌱 Currently learning vue & JavaScript in depth
+- 🌱 Learning Vue & JavaScript in depth
 - 👀 More interested in front of frontend
 - 💞️ Love to explore more about CSS
 
